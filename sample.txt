@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is useful for data science.
+I am learning Python.
+Python is a programming language.
